@@ -1,4 +1,4 @@
-# EtherBlockchainIntro
+# Ether Blockchain Intro
 
 About:
 - This is an example of a blockchain application using ethreum smart contracts and solidity.
